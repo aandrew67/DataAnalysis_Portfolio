@@ -8,6 +8,7 @@ Welcome to my data analyst portfolio! This repository showcases a selection of p
 - [Projects](#projects)
 - [Skills Demonstrated](#skills-demonstrated)
 - [Contact](#contact)
+- [Education](#education)
 
   
 ## Introduction
