@@ -58,7 +58,7 @@ I am an aspiring data analyst with a passion for uncovering insights from data a
 ## Contact
 For any questions or feedback, feel free to reach out to me at:
 
-- Email: ruizandrew2020@gmail.com
+- Email: ruizandrew85@gmail.com
 - LinkedIn: www.linkedin.com/in/andrew-ruiz-70a71b25a
 
 ## Education
