@@ -7,6 +7,8 @@ Welcome to my data analyst portfolio! This repository showcases a selection of p
 - [Introduction](#introduction)
 - [Projects](#projects)
 - [Skills Demonstrated](#skills-demonstrated)
+- [Contact](#contact)
+
   
 ## Introduction
 
@@ -52,3 +54,8 @@ I am an aspiring data analyst with a passion for uncovering insights from data a
 - Querying databases with SQL
 - Using Pandas for data manipulation and analysis
 
+## Contact
+For any questions or feedback, feel free to reach out to me at:
+
+- Email: ruizandrew2020@gmail.com
+- LinkedIn: www.linkedin.com/in/andrew-ruiz-70a71b25a
