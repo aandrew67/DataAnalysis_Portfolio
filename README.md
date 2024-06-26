@@ -61,5 +61,5 @@ For any questions or feedback, feel free to reach out to me at:
 - LinkedIn: www.linkedin.com/in/andrew-ruiz-70a71b25a
 
 ## Education
-- BA in Economics, University of California, Santa Cruz
+- B.A. in Economics from University of California, Santa Cruz
 - Minor in Technology Information Management
