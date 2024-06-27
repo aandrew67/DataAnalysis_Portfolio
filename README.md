@@ -13,7 +13,9 @@ Welcome to my data analyst portfolio! This repository showcases a selection of p
   
 ## Introduction
 
-I am an aspiring data analyst with a passion for uncovering insights from data and making data-driven decisions. This portfolio is a collection of my work showcasing my proficiency in data analysis through various tools and techniques. 
+I am an aspiring data analyst with a strong passion for uncovering insights from data and making data-driven decisions. My background in economics and technology information management has equipped me with a robust analytical foundation and a keen eye for detail. This portfolio is a curated collection of my work, showcasing my proficiency in various data analysis tools and techniques, including Excel, SQL, R, and Pandas. Through these projects, I demonstrate my ability to perform exploratory data analysis (EDA), develop forecasts, and present actionable insights.
+
+Each project in this portfolio highlights different aspects of my skill set, from data cleaning and visualization to statistical analysis and predictive modeling. I am excited to share my journey and the impactful results of my work. Thank you for visiting my portfolio! 
 
 ## Projects
 
