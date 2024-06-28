@@ -1,6 +1,6 @@
 # Data Analyst Portfolio
 
-Welcome to my data analyst portfolio! This repository showcases a selection of projects that demonstrate my skills and capabilities in data analysis. Each project utilizes different tools and techniques, including Excel, SQL, R, and Pandas for exploratory data analysis (EDA) and Forecasting.
+Welcome to my data analyst portfolio! This repository showcases a selection of projects that demonstrate my skills and capabilities in data analysis. Each project utilizes different tools and techniques, including Excel, SQL, R, Tableau, and Pandas for exploratory data analysis (EDA) and Forecasting.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ Welcome to my data analyst portfolio! This repository showcases a selection of p
   
 ## Introduction
 
-I am an aspiring data analyst with a strong passion for uncovering insights from data and making data-driven decisions. My background in economics and technology information management has equipped me with a robust analytical foundation and a keen eye for detail. This portfolio is a curated collection of my work, showcasing my proficiency in various data analysis tools and techniques, including Excel, SQL, R, and Pandas. Through these projects, I demonstrate my ability to perform exploratory data analysis (EDA), develop forecasts, and present actionable insights.
+I am an aspiring data analyst with a strong passion for uncovering insights from data and making data-driven decisions. My background in economics and technology information management has equipped me with a robust analytical foundation and a keen eye for detail. This portfolio is a curated collection of my work, showcasing my proficiency in various data analysis tools and techniques, including Excel, SQL, R, Tableau, and Pandas. Through these projects, I demonstrate my ability to perform exploratory data analysis (EDA), develop forecasts, and present actionable insights.
 
 Each project in this portfolio highlights different aspects of my skill set, from data cleaning and visualization to statistical analysis and predictive modeling. I am excited to share my journey and the impactful results of my work. Thank you for visiting my portfolio! 
 
@@ -36,6 +36,12 @@ Each project in this portfolio highlights different aspects of my skill set, fro
 1. **Shopping EDA**
    - **Description:** This project involves analyzing shopping data using R to uncover trends and patterns in customer purchases. The analysis includes data cleaning, visualization, and statistical modeling to understand customer behavior, product preferences, and sales trends. Key metrics and insights are presented through various plots and summary statistics.
    - **Tools Used:** R
+   
+### Tableau Project
+
+1. **Electric Vehicles Dashboard**
+   - **Description:** This project involves creating an interactive dashboard using Tableau to analyze electric vehicle (EV) data. The dashboard provides a comprehensive view of EV sales, market trends, and EV type.
+   - **Tools Used:** Tableau
    
 ### Pandas Projects
 
